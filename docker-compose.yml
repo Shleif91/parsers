@@ -1,0 +1,10 @@
+version: '3.7'
+
+services:
+  python:
+    container_name: dp_python
+    build: ./docker/python
+    env_file:
+      - .env
+    volumes:
+      - ./scrapy:/code

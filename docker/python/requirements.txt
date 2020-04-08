@@ -1,0 +1,8 @@
+markdown
+psycopg2
+
+scrapy
+requests
+
+scrapy_proxies
+scrapy-rotating-proxies

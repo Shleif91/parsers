@@ -1,0 +1,10 @@
+*.json
+*.log
+*.csv
+
+__pycache__/
+files/
+logs/
+proxies/
+
+.env
